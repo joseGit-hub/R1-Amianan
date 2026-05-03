@@ -2,7 +2,7 @@
 
 An interactive real-time monitoring and logistics tool designed to track agricultural commodity prices and regional weather conditions across Region I (Ilocos Region), Philippines.
 
-Access LiveApp: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://r1-amianan-ph.streamlit.app/)
+Access LiveApp: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://r1-amianan.streamlit.app/)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
