@@ -9,7 +9,6 @@ Access LiveApp: [![Streamlit App](https://static.streamlit.io/badges/streamlit_b
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Description
 Amianan Presyo (Northern Prices) serves as a centralized hub for farmers, traders, and logistics planners to monitor the fluctuating market landscape of Northern Luzon. The application integrates live price feeds for essential crops and fuel with localized weather data to provide a comprehensive view of the agricultural supply chain.
